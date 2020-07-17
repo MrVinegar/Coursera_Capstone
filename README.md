@@ -2,7 +2,9 @@
 Data Science Capstone Project on Coursera
 
 ## Business Problem section
-
+**Background infomation**
+--
+**Audience**
 ## Data Section
 
 ## Methodology Section
