@@ -9,6 +9,7 @@ Data Science Capstone Project on Coursera
 
 ## Data Section
 
+
 ## Methodology Section
 
 ## Result Section
