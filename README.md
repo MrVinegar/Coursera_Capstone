@@ -14,7 +14,7 @@ So how can we safely enjoy the time of eating out and not having to worry about 
 
 **Audience**
 
-This project mainly targets people that like going out to eat but also want to be in a worry-free environment, however it also applies for other public facilities such as bars, playgrounds and other businesses where social distancing is not able to achieve.
+This project mainly targets people that like going out to eat but also want to be in a worry-free environment in the top 4 states that have the most amount of covid-19 cases, however it also applies for other public facilities such as bars, playgrounds and other businesses where social distancing is not able to achieve.
 
 ## Data Section
 
